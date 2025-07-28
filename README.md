@@ -4,7 +4,7 @@ Este é um desafio proposto pela plataforma [Frontend Mentor](https://www.fronte
 
 ## 📸 Preview
 
-![Screenshot do projeto](./images/image.png)
+![Screenshot do projeto](./image.png)
 
 ## 🔗 Link do projeto
 
