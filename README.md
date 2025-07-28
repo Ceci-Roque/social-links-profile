@@ -34,4 +34,4 @@ Este projeto faz parte dos desafios gratuitos do [Frontend Mentor](https://www.f
 
 ---
 
-🧠 Feito com 💙 por [Ceci](https://github.com/Ceci-Roque)_
+🧠 _Feito com 💙 por [Ceci](https://github.com/Ceci-Roque)_
